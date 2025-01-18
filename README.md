@@ -15,7 +15,7 @@ The Target E-commerce Sales database structure consists of seven tables: Orders,
 
 Each table has a total row count of approximately 100,000 records.
 
-<img width="844" alt="Target ERD Diagram" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/52db85a0e08683a076ff188a6593d4d4ef174f9d/Target%20ERD%20Diagram.png">
+<img width="1080" alt="Target ERD Diagram" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/52db85a0e08683a076ff188a6593d4d4ef174f9d/Target%20ERD%20Diagram.png">
 
 
 
