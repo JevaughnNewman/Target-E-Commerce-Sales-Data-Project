@@ -20,14 +20,18 @@ Each table has a total row count of approximately 100,000 records.
 
 
 Fact Table: Order_items
-    **Description: This table captures detailed transactional data for each item in an order. It serves as the central fact table for our analysis
+    Description: This table captures detailed transactional data for each item in an order. It serves as the central fact table for our analysis
   
   Key Columns: 
-    ** order_item_id: Unique identifier (Primary Key) for each item in an order
-    ** order_id: Links the item to the corresponding order.
-    ** product_id: Identifies the product sold.
-    ** price: The price of the item.
-    ** freight_value: shipping cost for the item.
+    - order_item_id: Unique identifier (Primary Key) for each item in an order.
+    
+    - order_id: Links the item to the corresponding order.
+    
+    - product_id: Identifies the product sold.
+    
+    - price: The price of the item.
+    
+    - freight_value: shipping cost for the item.
 
 Dimension Tables: 
   Orders: 
