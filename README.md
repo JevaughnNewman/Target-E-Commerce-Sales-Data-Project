@@ -48,7 +48,13 @@ Dimension Tables:
 
 # Executive Summary
 
+Overview of Findings
 
+Sales Trends 
+
+Product Performance
+
+Customer Profiles
 
 
 # Insights and Deep Dive
