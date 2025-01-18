@@ -17,6 +17,7 @@ Each table has a total row count of approximately 100,000 records.
 
 <img width="844" alt="Star Schema" src="https://github.com/user-attachments/assets/4df24c28-dc26-4740-8f54-cc43624d7292">
 
+
 Fact Table: Order_items
   Description: This table captures detailed transactional data for each item in an order. It serves as the central fact table for our analysis
   
