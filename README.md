@@ -10,3 +10,11 @@ Insights and recommendations are provided in the following key areas:
 
 
 # Data Structure & Initial Checks
+
+
+# Executive Summary
+
+
+
+
+# Insights and Deep Dive
