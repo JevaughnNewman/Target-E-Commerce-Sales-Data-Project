@@ -1,4 +1,4 @@
-#Project Background
+# Project Background
 
 Target is a leading retail company in the United States, known for its wide array of products which include clothing, electronics, groceries and household items. To enhance its customer experiecnce and expand its reach world-wide, Target has invested heavily in its e-commerce platform, which enables customers to browse, purchase and recieve products conviently through online orders.
 
