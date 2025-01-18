@@ -11,6 +11,15 @@ Insights and recommendations are provided in the following key areas:
 
 # Data Structure & Initial Checks
 
+The Target E-commerce Sales database structure consists of seven tables: Orders, Order_Items, Products, Payments, Customers, Sellers, Geolocation
+
+Each table has a total row count of approximately 100,000 records.
+
+Fact Table: order_items
+
+Dimension Tables: Orders, Products, Payments, Customers, Sellers, Geolocation
+
+
 
 # Executive Summary
 
