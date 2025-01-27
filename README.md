@@ -6,7 +6,11 @@ This project focuses on utilizing the e-commerce data to perform key sales and p
 
 Insights and recommendations are provided in the following key areas:
 
+1) Sales Performance
 
+2) Customer Behavior
+
+3) Product Performance 
 
 
 # Data Structure & Initial Checks
