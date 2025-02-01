@@ -41,12 +41,17 @@ Fact Table:
 
 Dimension Tables: 
 
-    - Orders: 
-    - Products: 
-    - Payments: 
-    - Customers: 
-    - Sellers:
-    - Geolocation:
+    - Orders: Tracks order lifecycle timelines (purchase, delivery, estimates) and statuses, linked to customers.
+    
+    - Products: Manages product metadata, including category, dimensions, and descriptive content for inventory and logistics.
+    
+    - Payments: Logs payment methods, installments, and transaction values tied to orders for financial reporting.
+    
+    - Customers: Stores unique customer profiles with ZIP code-linked location data for delivery and analysis.
+    
+    - Sellers: Contains seller details, including location via ZIP code, to track seller geographic distribution and performance.
+    
+    - Geolocation: Central table storing geographic coordinates and city/state data for ZIP code prefixes used by customers and sellers.
 
 
 
