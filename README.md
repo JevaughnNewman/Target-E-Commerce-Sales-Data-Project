@@ -108,7 +108,11 @@ Dimension Tables:
 # Clarifying Questions, Assumptions and Caveats
 
 ### Questions for Stakeholders Before Project Advancement
-List of key questions for stakeholders before moving forward with the project...
+1. What are the key business objectives this analysis should address?
+    Answer: Identify revenue trends, customer behaviour and the highest selling product categories
+
+2. What data sources are available, and do we have full access to them?
+3. Who is the primary audience for this analysis, and how will insights be used?
 
 ### Assumptions and Caveats
 Details about assumptions made in the analysis and any potential caveats...
