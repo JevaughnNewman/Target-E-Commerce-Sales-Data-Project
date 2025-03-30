@@ -107,10 +107,10 @@ Dimension Tables:
 
 # Clarifying Questions, Assumptions and Caveats
 
-## Questions for Stakeholders Before Project Advancement
+### Questions for Stakeholders Before Project Advancement
 List of key questions for stakeholders before moving forward with the project...
 
-## Assumptions and Caveats
+### Assumptions and Caveats
 Details about assumptions made in the analysis and any potential caveats...
 
 
