@@ -100,10 +100,11 @@ Dimension Tables:
 ### Customer Spend Category
 
 
+# Recommendations
 
 # Clarifying Questions, Assumptions and Caveats
 
 
 
 
-# Recommendations
+
