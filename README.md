@@ -122,12 +122,12 @@ Dimension Tables:
 
 ### Assumptions and Caveats
 
-** Assumptions
+#### Assumptions
 - The provided dataset is **complete and accurate**, representing all transactions from the specified periods.  
 - The **absence of specific product names and customer names** does not significantly impact the validity of customer behavior insights.  
 - Sales trends from **Target’s international operations in Brazil** are reflective of broader e-commerce trends in that market.  
 
-** Caveats
+#### Caveats
 - The dataset **only includes Q4 2016, all of 2017, and Q1–Q3 of 2018**, meaning **Q4 2018 is missing**, which may affect year-over-year comparisons.  
 - Without customer-specific data, **repeat purchase behavior and customer segmentation** must be inferred from available transaction details.  
 - **Macroeconomic factors** (e.g., inflation, currency fluctuations) that could impact purchasing behavior are **not accounted for** in this analysis.  
