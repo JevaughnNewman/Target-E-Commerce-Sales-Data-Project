@@ -115,7 +115,7 @@ Dimension Tables:
    Answer: Product sales data from Target’s international operations in Brazil. The dataset does not include specific product names or customer names to protect privacy. It covers Q4 2016, all of 2017,    and Q1–Q3 of 2018.
    
 3. Who is the primary audience for this analysis, and how will insights be used?
-   Answer: Identify revenue trends, customer behaviour and the highest selling product categories
+   Answer: Executives and marketing teams. Insights will guide pricing, marketing, and inventory decisions.
 
 ### Assumptions and Caveats
 Details about assumptions made in the analysis and any potential caveats...
