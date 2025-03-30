@@ -12,6 +12,8 @@
     - [Customer Spend Category](#customer-spend-category)
   - [Recommendations](#recommendations)
   - [Clarifying Questions, Assumptions and Caveats](#clarifying-questions-assumptions-and-caveats)
+    - [Questions for Stakeholders Before Project Advancement](#questions-for-stakeholders-before-project-advancement)
+    - [Assumptions and Caveats](#assumptions-and-caveats)
 
 
 # Project Background
@@ -104,6 +106,12 @@ Dimension Tables:
 # Recommendations
 
 # Clarifying Questions, Assumptions and Caveats
+
+## Questions for Stakeholders Before Project Advancement
+List of key questions for stakeholders before moving forward with the project...
+
+## Assumptions and Caveats
+Details about assumptions made in the analysis and any potential caveats...
 
 
 
