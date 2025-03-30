@@ -61,16 +61,14 @@ Dimension Tables:
 
 Overview of Findings
 
-    1. YoY revenue Growth: In 2018, our revenue was $7,386,050, reflecting a 19.99% change compared to 2017. This can be attributed to a 20.4% increase in the number of purchases/orders (13,948) in 2017 compared to (16,794) placed in 2018. In            addition to this, the number of customers categorized as high spenders also increased YoY.
+    1. YoY revenue Growth: In 2018, our revenue was $7,386,050, reflecting a 19.99% change compared to 2017. This can be attributed to a 20.4% increase in the number of purchases/orders (13,948) in 2017        compared to (16,794) placed in 2018. Customers in the high-spender category—defined by the percentile of average cart amount—showed year-over-year growth in both revenue and order quantity from          2017 to 2018. However, the average order value (AOV) for this segment experienced a slight decline, decreasing from $299.07 to $295.22.
     
     2. Changes in Top-Selling Product Categories: 
     
-    3. YoY revenue Growth:
-
 
 Sales Trends 
-    **Claims trends for the first quarter of the year**: Claims data for the first quarter of the year for Multi-vehicle, single-vehicle, vehicle theft and parked car claims.
-    **Total claim amounts**: Breakdown of the median vehicle claim amount, median injury claim amount and total claims amount for January, February and March.
+    **
+    **
 
 Product Category Performance
 
