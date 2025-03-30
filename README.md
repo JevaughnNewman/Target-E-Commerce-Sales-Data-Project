@@ -129,7 +129,9 @@ Dimension Tables:
 
 #### Caveats
 - The dataset **only includes Q4 2016, all of 2017, and Q1–Q3 of 2018**, meaning **Q4 2018 is missing**, which may affect year-over-year comparisons.  
-- Without customer-specific data, **repeat purchase behavior and customer segmentation** must be inferred from available transaction details.  
+- Without customer-specific data:
+  - **Repeat purchase behavior cannot be directly measured** and must be inferred from transaction details.  
+  - **Customer segmentation is limited** to spending patterns rather than demographics.  
 - **Macroeconomic factors** (e.g., inflation, currency fluctuations) that could impact purchasing behavior are **not accounted for** in this analysis.  
 
 
