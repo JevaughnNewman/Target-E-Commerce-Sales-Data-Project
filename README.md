@@ -53,7 +53,7 @@ Dimension Tables:
     
     - Geolocation: Central table storing geographic coordinates and city/state data for ZIP code prefixes used by customers and sellers.
 
-
+<img width="1080" alt="Target E-Commerce ERD Diagram.png" src="">
 
 # Executive Summary
 
