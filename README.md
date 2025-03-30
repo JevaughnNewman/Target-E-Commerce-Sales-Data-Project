@@ -1,15 +1,16 @@
 # Table of Contents
 
-- [Project Background](#project-background)
-- [Executive Summary](#executive-summary)
-- [Insights and Deep-Dive](#insights-and-deep-dive)
-  - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
-  - [Key Performance Indicators](#key-performance-indicators)
-  - [Sales by Product Category](#sales-by-product-category)
-  - [Payment Preference](#payment-preference)
-  - [Customer Spend Category](#customer-spend-category)
-- [Recommendations](#recommendations)
-- [Clarifying Questions, Assumptions and Caveats](#clarifying-questions-assumptions-and-caveats)
+#-[Target E-commerce Analysis](#target-e-commerce-analysis)
+  - [Project Background](#project-background)
+  - [Executive Summary](#executive-summary)
+  - [Insights and Deep-Dive](#insights-and-deep-dive)
+    - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
+    - [Key Performance Indicators](#key-performance-indicators)
+    - [Sales by Product Category](#sales-by-product-category)
+    - [Payment Preference](#payment-preference)
+    - [Customer Spend Category](#customer-spend-category)
+  - [Recommendations](#recommendations)
+  - [Clarifying Questions, Assumptions and Caveats](#clarifying-questions-assumptions-and-caveats)
 
 
 # Project Background
