@@ -8,14 +8,14 @@ Insights and recommendations are provided in the following key areas:
 
 1) Sales Performance
 
-2) Customer Behavior
+2) Customer Behaviour
 
 3) Product Performance 
 
 
 # Data Structure & Initial Checks
 
-The Target E-commerce Sales database structure consists of seven tables: Orders, Order_Items, Products, Payments, Customers, Sellers, Geolocation
+The Target E-commerce Sales database structure consists of seven tables: Orders, Order_Items, Products, Payments, Customers, Sellers, and Geolocation
 
 Each table has a total row count of approximately 100,000 records.
 
@@ -41,7 +41,7 @@ Fact Table:
 
 Dimension Tables: 
 
-    - Orders: Tracks order lifecycle timelines (purchase, delivery, estimates) and statuses, linked to customers.
+    Orders: This section tracks order lifecycle timelines (purchase, delivery, estimates) and statuses, which are linked to customers.
     
     - Products: Manages product metadata, including category, dimensions, and descriptive content for inventory and logistics.
     
@@ -49,7 +49,7 @@ Dimension Tables:
     
     - Customers: Stores unique customer profiles with ZIP code-linked location data for delivery and analysis.
     
-    - Sellers: Contains seller details, including location via ZIP code, to track seller geographic distribution and performance.
+    Sellers: This section contains seller details, including location via ZIP code, to track seller geographic distribution and performance.
     
     - Geolocation: Central table storing geographic coordinates and city/state data for ZIP code prefixes used by customers and sellers.
 
@@ -58,10 +58,17 @@ Dimension Tables:
 # Executive Summary
 
 Overview of Findings
+    -**1. YoY revenue Growth**:
+    -**2. Changes in Top-Selling Product Categories**: 
+    -0**3. YoY revenue Growth**:
+
 
 Sales Trends 
+    -**Claims trends for the first quarter of the year**: Claims data for the first quarter of the year for Multi-vehicle, single-vehicle, vehicle theft and parked car claims.
+    -**Total claim amounts**: Breakdown of the median vehicle claim amount, median injury claim amount and total claims amount for January, February and March.
 
-Product Performance
+Product Category Performance
+
 
 Customer Profiles
 
