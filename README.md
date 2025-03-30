@@ -66,14 +66,6 @@ Dimension Tables:
 2. Changes in Top-Selling Product Categories: 
     
 
-Sales Trends 
-    **
-    **
-
-Product Category Performance
-
-
-Customer Profiles
 
 
 # Insights and Deep Dive
