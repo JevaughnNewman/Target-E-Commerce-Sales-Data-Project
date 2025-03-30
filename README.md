@@ -59,7 +59,8 @@ Dimension Tables:
 
 Overview of Findings
 
-    1. YoY revenue Growth:
+    1. YoY revenue Growth: In 2018, our revenue was $7,386,050, reflecting a 19.99% change compared to 2017. This can be attributed to a 20.4% increase in the number of purchases/orders (13,948) in 2017 compared to (16,794) placed in 2018. In            addition to this, the number of customers categorized as high spenders also increased YoY.
+    
     2. Changes in Top-Selling Product Categories: 
     3. YoY revenue Growth:
 
