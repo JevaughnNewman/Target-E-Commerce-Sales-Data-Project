@@ -81,11 +81,9 @@ Dimension Tables:
 
 1. YoY revenue Growth: In 2018, revenue grew to $7,386,050, marking a 19.99% year-over-year increase. This growth was driven by a 20.4% rise in order volume, from 13,948 in 2017 to 16,794 in 2018. Notably, customers in the high-spender category, defined by the percentile of average cart amount, contributed to this upward trend with increases in both revenue and order quantity. However, the average order value (AOV) for this segment saw a slight decline, dropping from $299.07 to $295.22.
     
-2. Top-Selling Product Categories: The top product categories in 2017 were Bed, bath & tableware, watches and accessories, health & beauty, sports and leisure and computer and laptop accessories.
+2. Top-Selling Product Categories: In 2017, the leading product categories by revenue were Bed, Bath & Tableware, Watches & Accessories, Health & Beauty, Sports & Leisure, and Computer & Laptop Accessories. These top 5 categories collectively contributed to 37.8% of the total revenue for the year.
 
-The Top 5 product categories made up 37.8% of total revenue for 2017.
-
-Compared for 2018, all of the top 5 categories in terms of overall revenue remained the same, with the total revenue for the top 5 categories accounting for 41.3% of the overall revenue for the first three quarters.
+When comparing 2018, the same five categories continued to dominate in terms of overall revenue. However, the share of total revenue from these top categories increased to 41.3% in the first three quarters of 2018.
       
 
 
