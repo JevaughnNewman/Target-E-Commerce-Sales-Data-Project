@@ -65,8 +65,8 @@ Overview of Findings
 
 
 Sales Trends 
-    -**Claims trends for the first quarter of the year**: Claims data for the first quarter of the year for Multi-vehicle, single-vehicle, vehicle theft and parked car claims.
-    -**Total claim amounts**: Breakdown of the median vehicle claim amount, median injury claim amount and total claims amount for January, February and March.
+    **Claims trends for the first quarter of the year**: Claims data for the first quarter of the year for Multi-vehicle, single-vehicle, vehicle theft and parked car claims.
+    **Total claim amounts**: Breakdown of the median vehicle claim amount, median injury claim amount and total claims amount for January, February and March.
 
 Product Category Performance
 
