@@ -83,6 +83,23 @@ Dimension Tables:
 
 
 # Insights and Deep Dive
+
+### Sales Trends and Growth Rates
+
+
+### Key Performance Indicators
+
+
+### Sales by Product Category
+
+
+### Payment Preference
+
+
+### Customer Spend Category
+
+
+
 # Clarifying Questions, Assumptions and Caveats
 
 
