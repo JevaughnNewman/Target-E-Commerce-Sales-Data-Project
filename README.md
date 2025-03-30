@@ -59,9 +59,9 @@ Dimension Tables:
 
 Overview of Findings
 
-    -**1. YoY revenue Growth**:
-    -**2. Changes in Top-Selling Product Categories**: 
-    -**3. YoY revenue Growth**:
+    **1. YoY revenue Growth**:
+    **2. Changes in Top-Selling Product Categories**: 
+    **3. YoY revenue Growth**:
 
 
 Sales Trends 
