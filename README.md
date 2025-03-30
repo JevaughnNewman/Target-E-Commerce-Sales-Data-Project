@@ -83,7 +83,7 @@ Dimension Tables:
     
 2. Top-Selling Product Categories: In 2017, the leading product categories by revenue were Bed, Bath & Tableware, Watches & Accessories, Health & Beauty, Sports & Leisure, and Computer & Laptop Accessories. These top 5 categories collectively contributed to 37.8% of the total revenue for the year.
 
-  When comparing 2018, the same five categories continued to dominate in terms of overall revenue. However, the share of total revenue from these top categories increased to 41.3% in the first three    quarters of 2018.
+  When comparing 2018, the same five categories continued to dominate in terms of overall revenue. However, the share of total revenue from these top categories increased to 41.3% in the first three quarters of 2018.
       
 
 
