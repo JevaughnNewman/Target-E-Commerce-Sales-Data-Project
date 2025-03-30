@@ -1,6 +1,6 @@
 # Table of Contents
 
-#-[Target E-commerce Analysis](#target-e-commerce-analysis)
+-[Target E-commerce Analysis](#target-e-commerce-analysis)
   - [Project Background](#project-background)
   - [Executive Summary](#executive-summary)
   - [Insights and Deep-Dive](#insights-and-deep-dive)
