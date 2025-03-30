@@ -1,3 +1,17 @@
+# Table of Contents
+
+- [Project Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Insights and Deep-Dive](#insights-and-deep-dive)
+  - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
+  - [Key Performance Indicators](#key-performance-indicators)
+  - [Sales by Product Category](#sales-by-product-category)
+  - [Payment Preference](#payment-preference)
+  - [Customer Spend Category](#customer-spend-category)
+- [Recommendations](#recommendations)
+- [Clarifying Questions, Assumptions and Caveats](#clarifying-questions-assumptions-and-caveats)
+
+
 # Project Background
 
 Target is a leading retail company in the United States, known for its wide array of products, including clothing, electronics, groceries and household items. To enhance its customer experience and expand its reach worldwide, Target has invested heavily in its e-commerce platform, which enables customers to browse, purchase and receive products conveniently through online orders.
