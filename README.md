@@ -117,7 +117,7 @@ Dimension Tables:
 ### Customer Spend Category
 
 <p align="center">
-<img width="600" alt="LowSpenderKPIs.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/b9ee059c3a6b292f9cd689831581ac7f9f233aab/Low%20Spender%20KPIs.png">
+<img width="720" alt="LowSpenderKPIs.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/b9ee059c3a6b292f9cd689831581ac7f9f233aab/Low%20Spender%20KPIs.png">
 </p>
 
   * In 2017, customers whose average order size was categorized as low spenders made a total of 12,703 orders. The average order value (AOV) for customers in the low spender category was $32.40, and the revenue totalled $411,551.22.
