@@ -105,6 +105,8 @@ Dimension Tables:
   * Payment Preferences by Customer Spend Category: Credit cards and UPI (Unified Payments Interface) dominate as the preferred payment methods across all customer spend categories, accounting for approximately 96.44% of all transactions. Among these, credit cards remain the most widely used payment method, with customers consistently opting for this method for higher-value orders.
     
   * Unified Payments Interface (UPI): UPI, also known as PIX in Brazil, is a real-time payment system introduced by the Central Bank of Brazil (Banco Central do Brasil) in 2020. It allows users to make instant, secure payments around the clock, including weekends and holidays, at no cost. UPI has quickly gained traction, accounting for 19.29% of total transactions. The system enables quick and easy payments, often facilitated through QR code scanning, making it an attractive alternative for consumers.
+    
+  * It can be be beneificial for Target Brazil to incentivize customers to utlize PIX more regularly due to the lower transaction fees compared to credit card payments. In addition to this, the speed and security of UPI may allow our customers to purchase more often.
 
 
 ### Customer Spend Category
@@ -119,7 +121,11 @@ Dimension Tables:
 
 # Recommendations
 
-
+  * Payment Methods: Incentivize UPI Adoption to Reduce Merchant Fees and Enhance Payment Efficiency
+    
+      1. Lower Merchant Fees: UPI transactions have significantly lower or no fees compared to credit card payments, which can reduce overall transaction costs for the business.
+      2. Faster, Secure Payments: UPI offers instant, 24/7 payments with enhanced security, providing a seamless and reliable payment experience for customers.
+      3. Customer Convenience and Loyalty: Promoting UPI simplifies the payment process for customers and incentivizing its use can enhance customer loyalty through rewards, fostering repeat business.
 
 
 
