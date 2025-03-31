@@ -28,7 +28,11 @@ Key areas of analysis include:
 
 2) Customer Behaviour
 
-3) Product Performance 
+3) Product Performance
+
+① The interactive Tableau Dashboard can be accessed [HERE](https://public.tableau.com/app/profile/jevaughn.newman/viz/TargetEcommerceDashboard/ExecutiveDashboard?publish=yes)
+
+② The queries used to create the relational database in MySQL Workbench 8.0.40 Community can be found [HERE](https://docs.google.com/document/d/1DeTPUa9PTz7XdSBD7RKVmE9SlXT6voAUoSrybSxRRg4/edit?tab=t.44mx9ut4pvzc)
 
 
 # Data Structure & Initial Checks
