@@ -175,12 +175,27 @@ Dimension Tables:
  **Payment Methods**: Incentivize UPI Adoption to Reduce Merchant Fees and Enhance Payment Efficiency
     
   1. Lower Merchant Fees: UPI transactions have significantly lower or no fees compared to credit card payments, which can reduce overall transaction costs for the business.
-  2. Faster, Secure Payments: UPI offers instant, 24/7 payments with enhanced security, providing a seamless and reliable payment experience for customers.
-  3. Customer Convenience and Loyalty: Promoting UPI simplifies the payment process for customers and incentivizing its use can enhance customer loyalty through rewards, fostering repeat business.
+  2. Offer discounts, cashback, or loyalty rewards for customers who use UPI to increase its share from the current 19.29% of total transactions.
+  3. Educate customers on the security, speed, and convenience of UPI to drive long-term adoption.
 
+ **Optimize Product Category Strategy for Seasonal Demand**: 
 
+  1. Leverage Q4 sales peaks by enhancing promotions and stock levels in Watches & Accessories, Bed, Bath & Tableware, Health & Beauty, Sports & Leisure, and Toys & Games, which performed best during the holiday season.
+  2. Expand product bundling and upsell strategies in top-selling categories to increase Average Order Value (AOV).
+  3. Use historical sales data to improve inventory planning and tailor marketing campaigns to maximize peak-season revenue.
 
+ **Capitalize on High-Spending Customer Trends**: 
 
+  1. The high-spender segment is growing as a percentage of total orders and prefers the top revenue-generating categories.
+  2. Develop exclusive VIP programs, premium-tier discounts, and early-access sales for high-value customers to boost retention and revenue.
+  3. Use personalized promotions and targeted marketing based on past purchase behavior to maximize customer lifetime value.
+
+ **Expand Focus on Mid-Tier Customers for Long-Term Growth**: 
+
+  1. Lower Merchant Fees: UPI transactions have significantly lower or no fees compared to credit card payments, which can reduce overall transaction costs for the business.
+  2. Offer discounts, cashback, or loyalty rewards for customers who use UPI to increase its share from the current 19.29% of total transactions.
+  3. Educate customers on the security, speed, and convenience of UPI to drive long-term adoption.
+     
 # Clarifying Questions, Assumptions and Caveats
 
 ### Questions for Stakeholders Before Project Advancement
