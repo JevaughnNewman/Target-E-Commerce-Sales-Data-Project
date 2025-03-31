@@ -172,28 +172,28 @@ Dimension Tables:
 
 # Recommendations
 
- 1. Payment Methods**: Incentivize UPI Adoption to Reduce Merchant Fees and Enhance Payment Efficiency
+ 1. **Payment Methods**: Incentivize UPI Adoption to Reduce Merchant Fees and Enhance Payment Efficiency
     
-  * Lower Merchant Fees: UPI transactions have significantly lower or no fees compared to credit card payments, which can reduce overall transaction costs for the business.
-  * Offer discounts, cashback, or loyalty rewards for customers who use UPI to increase its share from the current 19.29% of total transactions.
-  * Educate customers on the security, speed, and convenience of UPI to drive long-term adoption.
+    * Lower Merchant Fees: UPI transactions have significantly lower or no fees compared to credit card payments, which can reduce overall transaction costs for the business.
+    * Offer discounts, cashback, or loyalty rewards for customers who use UPI to increase its share from the current 19.29% of total transactions.
+    * Educate customers on the security, speed, and convenience of UPI to drive long-term adoption.
 
- 2. Optimize Product Category Strategy for Seasonal Demand**: 
+ 2. **Optimize Product Category Strategy for Seasonal Demand**: 
 
-  * Leverage Q4 sales peaks by enhancing promotions and stock levels in Watches & Accessories, Bed, Bath & Tableware, Health & Beauty, Sports & Leisure, and Toys & Games, which performed best during the holiday season.
-  * Expand product bundling and upsell strategies in top-selling categories to increase Average Order Value (AOV).
-  * Use historical sales data to improve inventory planning and tailor marketing campaigns to maximize peak-season revenue.
+    * Leverage Q4 sales peaks by enhancing promotions and stock levels in Watches & Accessories, Bed, Bath & Tableware, Health & Beauty, Sports & Leisure, and Toys & Games, which performed best during the holiday season.
+    * Expand product bundling and upsell strategies in top-selling categories to increase Average Order Value (AOV).
+    * Use historical sales data to improve inventory planning and tailor marketing campaigns to maximize peak-season revenue.
 
  3. **Capitalize on High-Spending Customer Trends**: 
 
-  * The high-spender segment is growing as a percentage of total orders and prefers the top revenue-generating categories.
-  * Develop exclusive VIP programs, premium-tier discounts, and early-access sales for high-value customers to boost retention and revenue.
-  * Use personalized promotions and targeted marketing based on past purchase behavior to maximize customer lifetime value.
+    * The high-spender segment is growing as a percentage of total orders and prefers the top revenue-generating categories.
+    * Develop exclusive VIP programs, premium-tier discounts, and early-access sales for high-value customers to boost retention and revenue.
+    * Use personalized promotions and targeted marketing based on past purchase behavior to maximize customer lifetime value.
 
  4. **Expand Focus on Mid-Tier Customers for Long-Term Growth**: 
 
-  * While high spenders dominate revenue, mid-tier customers drove increased sales in Health & Beauty and Sports & Leisure, offering an opportunity for targeted growth.
-  * Introduce flexible payment plans, loyalty incentives, and personalized promotions to encourage repeat purchases from this segment.
+    * While high spenders dominate revenue, mid-tier customers drove increased sales in Health & Beauty and Sports & Leisure, offering an opportunity for targeted growth.
+    * Introduce flexible payment plans, loyalty incentives, and personalized promotions to encourage repeat purchases from this segment.
   
      
 # Clarifying Questions, Assumptions and Caveats
