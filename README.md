@@ -94,6 +94,25 @@ Dimension Tables:
 
 ### Sales Trends and Growth Rates
 
+- **Year-Over-Year (YoY) Revenue Growth**:  
+  Revenue grew from **$6,155,806.98 in 2017** to **$7,386,050 in 2018**, marking a **19.99% increase**. However, it's important to note that the 2018 data includes only the first three quarters.  
+
+- **Average Order Value (AOV)**:  
+  The **AOV in 2017 was $138.09**, while in **2018 it slightly declined to $137.35**. Despite the drop in AOV, the **overall order volume increased by 20.4%**, contributing to the YoY revenue growth.  
+
+- **Growth in High-Spend Customers**:  
+  Customers classified as **high spenders** made up a **larger percentage of overall orders in 2018 compared to 2017**. These high-spending customers predominantly purchased from the **top five product categories**, reinforcing the importance of these key segments.  
+
+- **2017 Revenue Growth and Q4 Peak**:  
+  In **2017, revenue steadily increased from Q1 to Q4**, with a peak in **November 2017 at $1,010,271**, most likely driven by holiday shopping for **Christmas**.  
+
+- **Top Revenue-Generating Categories in Holiday Season (Q4 2017)**:  
+  During the **holiday season (Q4 2017), the categories that contributed the most revenue were**:  
+  - **Watches & Accessories**  
+  - **Bed, Bath & Tableware**  
+  - **Health & Beauty**  
+  - **Sports & Leisure**  
+  - **Toys & Games**  
 
 ### Key Performance Indicators
 
