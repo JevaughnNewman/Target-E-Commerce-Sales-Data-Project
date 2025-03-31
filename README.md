@@ -125,8 +125,9 @@ Dimension Tables:
   * Customers in the low spend category represented 6.7% of total revenue for 2017.
 
 <p align="center">
-<img width="1080" alt="LowSpenderKPIs.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/b9ee059c3a6b292f9cd689831581ac7f9f233aab/Low%20Spender%20KPIs.png">
+<img width="1080" alt="LowSpenderKPIs.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/c492aea0e4ba9d4687c4c4e18929c7475a6aee6b/Low%20Spender%20KPI%202018.png">
 </p>
+
     
   * In 2018, the total quantity of orders for customers in this category increased 25.18% from 12,703 to 15,902, accompanied by a slight increase in the average order value (AOV), which increased from $32.69 to a previous average order value of $32.40. Total YoY% revenue for this customer profile increased to $519,779.57, which represented a 26.30% increase from 2017's revenue of $411,551.22.
 
