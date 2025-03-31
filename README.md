@@ -102,6 +102,8 @@ Dimension Tables:
 
 
 ### Payment Preference
+  * The preferred method of payment for all customer spend categories was overwhelmingly credit card and UPI, representing approximately 96.44% of all payments. Across all customer spend categories, credit card was the most used payment method with an average amoutn of order being used by credit card.
+  * Unified Payments Interface (UPI), an instant payment system in Brazil (often called PIX), is a real-time payment system developed by the Central Bank of Brazil (Banco Central do Brasil). It enables instant, secure and free transfers 24/7, including weekends and holidays. This system, introduced in 2020, allows users to make payments, transfer and even QR code based transactions. 19.29% of total transactions used UPI as a payment method.
 
 
 ### Customer Spend Category
@@ -111,7 +113,7 @@ Dimension Tables:
     
   * In 2018, the total quantity of orders for customers in this category increased 25.18% from 12,703 to 15,902, accompanied by a slight increase in the average order value (AOV), which increased from $32.69 to a previous average order value of $32.40. Total YoY% revenue for this customer profile increased to $519,779.57, which represented a 26.30% increase from 2017's revenue of $411,551.22.
 
-    Customers 
+    
 
 
 # Recommendations
