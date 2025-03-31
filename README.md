@@ -153,8 +153,9 @@ Dimension Tables:
 ### Customer Spend Category
 
 
-## High Spenders
-## Medium Spenders
+#### High Spenders
+#### Medium Spenders
+#### Low Spenders
 
 <p align="center">
 <img width="1080" alt="LowSpenderKPIs.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/b9ee059c3a6b292f9cd689831581ac7f9f233aab/Low%20Spender%20KPIs.png">
