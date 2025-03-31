@@ -103,7 +103,8 @@ Dimension Tables:
 
 ### Payment Preference
 
-<img width="900" alt="PaymentMethods.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/5dd3449f45b1c642bb07921da8f58a8b28ca4234/Payment%20Method.png">
+<img width="900" alt="PaymentMethods.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/e0db4600d80036b7aefc12fce017153d1e15b6ba/PaymentMethod.png">
+
 
   * Payment Preferences by Customer Spend Category: Credit cards and UPI (Unified Payments Interface) dominate as the preferred payment methods across all customer spend categories, accounting for approximately 96.44% of all transactions. Among these, credit cards remain the most widely used payment method, with customers consistently opting for this method for higher-value orders.
     
