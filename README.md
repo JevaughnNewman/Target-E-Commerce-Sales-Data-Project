@@ -166,12 +166,19 @@ Dimension Tables:
 <img width="1080" alt="HighSpenderKPIs.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/68f36115065c7a1b457259894d37760ddacef539/High%20Spender%20KPI%202018.png">
 </p>
 
-
   * In 2018, the total number of orders increased by 20.4%, rising from 13,948 to 16,794 orders. While the AOV slightly decreased from $299.07 to $295.22, the overall revenue for this customer segment grew 18.85% YoY, reaching $4,957,959.75. The high spender segment represented a larger share of total revenue in 2018, reinforcing its importance to overall business growth.
 
 #### Medium Spenders
 
+<p align="center">
+<img width="1080" alt="MediumSpenderKPIs.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/676c2172b94ce36fa6fcdcc48cf0ab472ba193e7/Medium%20Spender%20KPI%202018.png">
+</p>
 
+
+
+* In 2017, customers categorized as medium spenders made a total of 17,927 orders, generating a revenue of $1,572,786.69. The average order value (AOV) for this segment was $87.73.
+
+*In 2018, the total quantity of orders increased by 17.97%, rising from 17,927 to 21,079 orders. This increase in order quantity was accompanied by a 3.20% increase in AOV, which rose from $87.73 in 2017 to $90.53 in 2018. As a result, the total revenue from medium spend customers increased by 21.33%, reaching $1,908,311.48 in 2018.
 
 #### Low Spenders
 
