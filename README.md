@@ -154,6 +154,11 @@ Dimension Tables:
 
 
 #### High Spenders
+
+  * In 2017, customers categorized as high spenders placed a total of 4,502 orders, with an average order value (AOV) of $299.07, generating $1,346,635.14 in total revenue. This segment accounted for a 21.9% share of total revenue for the year.
+  * the top spend categories for customers categorized as low spenders were: Watches & Accessories, Bed, Bath & Tableware, Health & Beauty, Sports & Leisure and Computers & Laptop Accessories.
+  * In 2018, the total number of orders increased by 28.54%, rising from 4,502 to 5,787 orders. While the AOV slightly decreased from $299.07 to $295.22, the overall revenue for this customer group grew 26.91% YoY, reaching $1,708,518.14. The high spender segment represented a larger share of total revenue in 2018, reinforcing its importance to overall business growth.
+
 #### Medium Spenders
 #### Low Spenders
 
