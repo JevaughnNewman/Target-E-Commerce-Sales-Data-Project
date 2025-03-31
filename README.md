@@ -121,11 +121,11 @@ Dimension Tables:
 
 # Recommendations
 
-  **Payment Methods**: Incentivize UPI Adoption to Reduce Merchant Fees and Enhance Payment Efficiency
+ **Payment Methods**: Incentivize UPI Adoption to Reduce Merchant Fees and Enhance Payment Efficiency
     
-      1. Lower Merchant Fees: UPI transactions have significantly lower or no fees compared to credit card payments, which can reduce overall transaction costs for the business.
-      2. Faster, Secure Payments: UPI offers instant, 24/7 payments with enhanced security, providing a seamless and reliable payment experience for customers.
-      3. Customer Convenience and Loyalty: Promoting UPI simplifies the payment process for customers and incentivizing its use can enhance customer loyalty through rewards, fostering repeat business.
+  1. Lower Merchant Fees: UPI transactions have significantly lower or no fees compared to credit card payments, which can reduce overall transaction costs for the business.
+  2. Faster, Secure Payments: UPI offers instant, 24/7 payments with enhanced security, providing a seamless and reliable payment experience for customers.
+  3. Customer Convenience and Loyalty: Promoting UPI simplifies the payment process for customers and incentivizing its use can enhance customer loyalty through rewards, fostering repeat business.
 
 
 
