@@ -97,6 +97,18 @@ Dimension Tables:
 
 ### Key Performance Indicators
 
+- **Year-over-Year Revenue Growth**: Revenue saw a notable increase of **19.99%** YoY, rising from **$6,155,806.98 in 2017** to **$7,386,050 in 2018**. It's important to note that the 2018 metric only includes data for the first three quarters, which highlights significant growth despite the incomplete data for the full year.
+
+- **Average Order Value (AOV)**: The average order value slightly decreased from **$138.09 in 2017** to **$137.35 in 2018**, indicating a marginal reduction in spending per transaction, which could be attributed to shifts in customer behavior or product mix.
+
+- **Top 5 Product Categories by Revenue**: The following product categories were the largest contributors to revenue:
+  - **Bed, Bath & Tableware**
+  - **Watches & Accessories**
+  - **Health & Beauty**
+  - **Sports & Leisure**
+  - **Computer & Laptop Accessories**
+
+  These top 5 categories accounted for **37.8% of total revenue in 2017** and **41.3% in the first three quarters of 2018**, underscoring their strong performance and consistent demand.
 
 ### Sales by Product Category
 
