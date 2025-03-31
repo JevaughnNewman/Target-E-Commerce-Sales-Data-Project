@@ -102,8 +102,9 @@ Dimension Tables:
 
 
 ### Payment Preference
-  * The preferred method of payment for all customer spend categories was overwhelmingly credit card and UPI, representing approximately 96.44% of all payments. Across all customer spend categories, credit card was the most used payment method with an average amoutn of order being used by credit card.
-  * Unified Payments Interface (UPI), an instant payment system in Brazil (often called PIX), is a real-time payment system developed by the Central Bank of Brazil (Banco Central do Brasil). It enables instant, secure and free transfers 24/7, including weekends and holidays. This system, introduced in 2020, allows users to make payments, transfer and even QR code based transactions. 19.29% of total transactions used UPI as a payment method.
+  * Payment Preferences by Customer Spend Category: Credit cards and UPI (Unified Payments Interface) dominate as the preferred payment methods across all customer spend categories, accounting for approximately 96.44% of all transactions. Among these, credit cards remain the most widely used payment method, with customers consistently opting for this method for higher-value orders.
+    
+  * Unified Payments Interface (UPI): UPI, also known as PIX in Brazil, is a real-time payment system introduced by the Central Bank of Brazil (Banco Central do Brasil) in 2020. It allows users to make instant, secure payments around the clock, including weekends and holidays, at no cost. UPI has quickly gained traction, accounting for 19.29% of total transactions. The system enables quick and easy payments, often facilitated through QR code scanning, making it an attractive alternative for consumers.
 
 
 ### Customer Spend Category
