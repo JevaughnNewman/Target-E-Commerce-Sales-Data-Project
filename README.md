@@ -2,8 +2,8 @@
 
 - [Target E-commerce Analysis](#target-e-commerce-analysis)
   
-  - [Project Background](#project-background)
   - [Executive Summary](#executive-summary)
+  - [Project Background](#project-background)
   - [Insights and Deep-Dive](#insights-and-deep-dive)
     - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
     - [Key Performance Indicators](#key-performance-indicators)
@@ -14,6 +14,20 @@
   - [Clarifying Questions, Assumptions and Caveats](#clarifying-questions-assumptions-and-caveats)
     - [Questions for Stakeholders Before Project Advancement](#questions-for-stakeholders-before-project-advancement)
     - [Assumptions and Caveats](#assumptions-and-caveats)
+
+
+# Executive Summary
+
+<img width="1080" alt="Dashboard.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/611b4bf7891fb658210bb5fcefae037d052b0727/Dashboard.png">
+
+### Overview of Findings
+
+1. **YoY Revenue Growth**: In 2018, revenue grew to $7,386,050, marking a 19.99% year-over-year increase. This growth was driven by a 20.4% rise in order volume, from 13,948 in 2017 to 16,794 in 2018. Notably, customers in the high-spender category, defined by the percentile of average cart amount, contributed to this upward trend with increases in both revenue and order quantity. However, the average order value (AOV) for this segment saw a slight decline, dropping from $299.07 to $295.22.
+
+2. **Top-Selling Product Categories**:  
+   In 2017, the leading product categories by revenue were Bed, Bath & Tableware, Watches & Accessories, Health & Beauty, Sports & Leisure, and Computer & Laptop Accessories. These top 5 categories collectively contributed to 37.8% of the total revenue for the year.  
+
+   When comparing 2018, the same five categories continued to dominate in terms of overall revenue. However, the share of total revenue from these top categories increased to 41.3% in the first three quarters of 2018.
 
 
 # Project Background
@@ -63,7 +77,7 @@ Fact Table:
 
 Dimension Tables: 
 
-    Orders: This section tracks order lifecycle timelines (purchase, delivery, estimates) and statuses, which are linked to customers.
+    Orders: This section tracks order lifecycle timelines (purchase, delivery, and estimates) and statuses, which are linked to customers.
     
     - Products: Manages product metadata, including category, dimensions, and descriptive content for inventory and logistics.
     
@@ -74,25 +88,7 @@ Dimension Tables:
     Sellers: This section contains seller details, including location via ZIP code, to track seller geographic distribution and performance.
     
     - Geolocation: Central table storing geographic coordinates and city/state data for ZIP code prefixes used by customers and sellers.
-
-
-
-# Executive Summary
-
-<img width="1080" alt="Dashboard.png" src="https://github.com/JevaughnNewman/Target-E-Commerce-Sales-Data-Project/blob/611b4bf7891fb658210bb5fcefae037d052b0727/Dashboard.png">
-
-### Overview of Findings
-
-1. **YoY Revenue Growth**: In 2018, revenue grew to $7,386,050, marking a 19.99% year-over-year increase. This growth was driven by a 20.4% rise in order volume, from 13,948 in 2017 to 16,794 in 2018. Notably, customers in the high-spender category, defined by the percentile of average cart amount, contributed to this upward trend with increases in both revenue and order quantity. However, the average order value (AOV) for this segment saw a slight decline, dropping from $299.07 to $295.22.
-
-2. **Top-Selling Product Categories**:  
-   In 2017, the leading product categories by revenue were Bed, Bath & Tableware, Watches & Accessories, Health & Beauty, Sports & Leisure, and Computer & Laptop Accessories. These top 5 categories collectively contributed to 37.8% of the total revenue for the year.  
-
-   When comparing 2018, the same five categories continued to dominate in terms of overall revenue. However, the share of total revenue from these top categories increased to 41.3% in the first three quarters of 2018.
-
       
-
-
 
 # Insights and Deep Dive
 
