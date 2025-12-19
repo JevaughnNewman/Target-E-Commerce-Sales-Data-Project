@@ -46,7 +46,9 @@ Key areas of analysis include:
 
 ① The interactive Tableau Dashboard can be accessed [HERE](https://public.tableau.com/app/profile/jevaughn.newman/viz/TargetEcommerceDashboard/ExecutiveDashboard?publish=yes)
 
-② The queries used to create the relational database in MySQL Workbench 8.0.40 Community can be found [HERE](https://docs.google.com/document/d/1DeTPUa9PTz7XdSBD7RKVmE9SlXT6voAUoSrybSxRRg4/edit?tab=t.44mx9ut4pvzc)
+② The executive slide deck for the strategic growth strategy based on the insights we uncovered [HERE] (https://github.com/JevaughnNewman/portfolio/blob/fe7fd90c5123cf91b29bebda53379155d58c16b6/public/Brazil_E-Commerce_Accelerated_Growth_Strategy.pdf)
+
+③ The queries used to create the relational database in MySQL Workbench 8.0.40 Community can be found [HERE](https://docs.google.com/document/d/1DeTPUa9PTz7XdSBD7RKVmE9SlXT6voAUoSrybSxRRg4/edit?tab=t.44mx9ut4pvzc)
 
 
 # Data Structure & Initial Checks
